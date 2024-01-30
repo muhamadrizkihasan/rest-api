@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Hasan",
+        "umur": 17,
+        "nrp": "04521151512",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "kiki",
+            "pembimbing2": "kiki"
+        }
+    },
+    {
+        "name": "Hasan",
+        "umur": 17,
+        "nrp": "04521151512",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "kiki",
+            "pembimbing2": "kiki"
+        }
+    }
+]
